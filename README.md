@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rkanuska
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Prakash
+- 👀 I’m interested in cs 
+- 🌱 I’m currently learning cse  engeenering
+- 💞️ I’m looking to collaborate on Instagram
+- 📫 How to reach me GitHub 
 
 <!---
 rkanuska/rkanuska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
